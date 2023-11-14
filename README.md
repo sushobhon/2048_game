@@ -1,0 +1,1 @@
+This is 2048 game coded in python. To play the game in console run `2048.py` file.
